@@ -1,0 +1,35 @@
+[{
+  "_id": 1,
+  "nombre": "Justino Bambino",
+  "edad": 44,
+  "nacionalidad": "España",
+  "partidos_arbitrados": 200
+},
+{
+  "_id": 2,
+  "nombre": "Felix Trich",
+  "edad": 45,
+  "nacionalidad": "Alemania",
+  "partidos_arbitrados": 180
+},
+{
+  "_id": 3,
+  "nombre": "David Ocampos",
+  "edad": 45,
+  "nacionalidad": "Italia",
+  "partidos_arbitrados": 170
+},
+{
+  "_id": 4,
+  "nombre": "Esteban Ballesteros",
+  "edad": 44,
+  "nacionalidad": "Eslovenia",
+  "partidos_arbitrados": 160
+},
+{
+  "_id": 5,
+  "nombre": "Camilo Contreras",
+  "edad": 44,
+  "nacionalidad": "Turquía",
+  "partidos_arbitrados": 150
+}]

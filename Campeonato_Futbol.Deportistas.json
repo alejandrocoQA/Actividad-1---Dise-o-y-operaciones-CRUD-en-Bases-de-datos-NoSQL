@@ -1,0 +1,65 @@
+[{
+  "_id": 1,
+  "nombre": "Ricardo Messiano",
+  "edad": 34,
+  "nacionalidad": "Panama",
+  "posición": "Delantero",
+  "equipo": "Paris Saint-Germain",
+  "estadísticas": {
+    "goles": 5,
+    "asistencias": 7,
+    "partidos_jugados": 10
+  }
+},
+{
+  "_id": 2,
+  "nombre": "Jose Cristianoo",
+  "edad": 36,
+  "nacionalidad": "Colombia",
+  "posición": "Delantero",
+  "equipo": "Manchester United",
+  "estadísticas": {
+    "goles": 6,
+    "asistencias": 5,
+    "partidos_jugados": 10
+  }
+},
+{
+  "_id": 3,
+  "nombre": "Lorem Contreras",
+  "edad": 29,
+  "nacionalidad": "Mexico",
+  "posición": "Delantero",
+  "equipo": "Paris Saint-Germain",
+  "estadísticas": {
+    "goles": 7,
+    "asistencias": 6,
+    "partidos_jugados": 9
+  }
+},
+{
+  "_id": 4,
+  "nombre": "Esteban Leal",
+  "edad": 22,
+  "nacionalidad": "Chile",
+  "posición": "Delantero",
+  "equipo": "Paris Saint-Germain",
+  "estadísticas": {
+    "goles": 8,
+    "asistencias": 4,
+    "partidos_jugados": 10
+  }
+},
+{
+  "_id": 5,
+  "nombre": "Ruben Socha",
+  "edad": 30,
+  "nacionalidad": "Bolivia",
+  "posición": "Centrocampista",
+  "equipo": "Manchester City",
+  "estadísticas": {
+    "goles": 4,
+    "asistencias": 10,
+    "partidos_jugados": 11
+  }
+}]

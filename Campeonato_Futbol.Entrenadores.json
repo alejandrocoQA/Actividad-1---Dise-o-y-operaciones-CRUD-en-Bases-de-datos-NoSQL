@@ -1,0 +1,80 @@
+[{
+  "_id": 1,
+  "nombre": "Lil Peep",
+  "edad": 50,
+  "nacionalidad": "España",
+  "equipo": "Manchester City",
+  "historial": "Ganador de múltiples títulos en diferentes ligas."
+},
+{
+  "_id": 2,
+  "nombre": "Adolfo Krisken",
+  "edad": 53,
+  "nacionalidad": "Alemania",
+  "equipo": "Liverpool",
+  "historial": "Conocido por su estilo de fútbol ofensivo."
+},
+{
+  "_id": 3,
+  "nombre": "Pablo Mogamour",
+  "edad": 48,
+  "nacionalidad": "Francia",
+  "equipo": "Real Madrid",
+  "historial": "Tres veces ganador de la UEFA Champions League como entrenador."
+},
+{
+  "_id": 4,
+  "nombre": "Carlos Ceratti",
+  "edad": 61,
+  "nacionalidad": "Italia",
+  "equipo": "Bayern Munich",
+  "historial": "Amplia experiencia en ligas europeas."
+},
+{
+  "_id": 5,
+  "nombre": "Thomas Edistone",
+  "edad": 47,
+  "nacionalidad": "Alemania",
+  "equipo": "Chelsea",
+  "historial": "Ganador de la UEFA Champions League con Chelsea."
+},
+{
+  "_id": 6,
+  "nombre": "Xavi Hernandes",
+  "edad": 50,
+  "nacionalidad": "España",
+  "equipo": "AC Milan",
+  "historial": "Ganador del mundial"
+},
+{
+  "_id": 7,
+  "nombre": "Adalberto Moral",
+  "edad": 53,
+  "nacionalidad": "Alemania",
+  "equipo": "Inter Milan",
+  "historial": "Conocido por su mama"
+},
+{
+  "_id": 8,
+  "nombre": "Auron Play",
+  "edad": 48,
+  "nacionalidad": "Francia",
+  "equipo": "Paris Saint-Germain",
+  "historial": "Tres veces ganador de lol"
+},
+{
+  "_id": 9,
+  "nombre": "Adalbero gordillo",
+  "edad": 61,
+  "nacionalidad": "Italia",
+  "equipo": "Barcelona",
+  "historial": "Amplia experiencia en bootcamps de java."
+},
+{
+  "_id": 10,
+  "nombre": "David Hernandes",
+  "edad": 47,
+  "nacionalidad": "Alemania",
+  "equipo": "Manchester United",
+  "historial": "Representante de la comunidad lbgtq"
+}]

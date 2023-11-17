@@ -1,0 +1,80 @@
+[{
+  "_id": 1,
+  "encuentro": 1,
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "detalles": {
+    "tarjetas_amarillas": 4,
+    "tarjetas_rojas": 0,
+    "cambios": [
+      {
+        "jugador_sale": 9,
+        "jugador_entra": 18
+      }
+    ]
+  }
+},
+{
+  "_id": 2,
+  "encuentro": 2,
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "detalles": {
+    "tarjetas_amarillas": 2,
+    "tarjetas_rojas": 1,
+    "cambios": [
+      {
+        "jugador_sale": 11,
+        "jugador_entra": 17
+      }
+    ]
+  }
+},
+{
+  "_id": 3,
+  "encuentro": 3,
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "detalles": {
+    "tarjetas_amarillas": 5,
+    "tarjetas_rojas": 1,
+    "cambios": [
+      {
+        "jugador_sale": 7,
+        "jugador_entra": 23
+      }
+    ]
+  }
+},
+{
+  "_id": 4,
+  "encuentro": 4,
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "detalles": {
+    "tarjetas_amarillas": 3,
+    "tarjetas_rojas": 0,
+    "cambios": [
+      {
+        "jugador_sale": 10,
+        "jugador_entra": 19
+      }
+    ]
+  }
+},
+{
+  "_id": 5,
+  "encuentro": 5,
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "detalles": {
+    "tarjetas_amarillas": 6,
+    "tarjetas_rojas": 2,
+    "cambios": [
+      {
+        "jugador_sale": 8,
+        "jugador_entra": 21
+      }
+    ]
+  }
+}]
