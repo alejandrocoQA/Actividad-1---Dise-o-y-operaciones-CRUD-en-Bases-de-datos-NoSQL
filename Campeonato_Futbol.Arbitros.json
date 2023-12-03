@@ -32,4 +32,20 @@
   "edad": 44,
   "nacionalidad": "Turquía",
   "partidos_arbitrados": 150
+}
+
+{
+  "_id": 6,
+  "nombre": "Pruebas Replicas1",
+  "edad": 44,
+  "nacionalidad": "Turquía",
+  "partidos_arbitrados": 150
+}
+
+{
+  "_id": 7,
+  "nombre": "Pruebas Replicas2",
+  "edad": 44,
+  "nacionalidad": "Turquía",
+  "partidos_arbitrados": 150
 }]
